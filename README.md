@@ -21,4 +21,4 @@
   <img src="https://komarev.com/ghpvc/?username=imedcherfaoui&style=for-the-badge&base=2830" alt="Profile Views" /> <!-- migrating from another service -->
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=9E43D5&random=false&lines=%F0%9F%94%AD+I%E2%80%99m+currently+working+on+a+cool+project...%E2%9C%A8)](https://git.io/typing-svg)
+$\textcolor{magenta}{\textsf{\textbf{\texttt{🔭 I’m currently working on a cool project...✨}}}}$
