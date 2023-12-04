@@ -1,10 +1,10 @@
 ![Site preview](https://i.ibb.co/RpmbtWJ/git-background.png)
 
 <a href="https://github.com/imedcherfaoui/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=imedcherfaoui&show_icons=true&theme=radical" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=imedcherfaoui&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/imedcherfaoui/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imedcherfaoui&layout=compact" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imedcherfaoui&layout=compact" />
 </a>
 <!--
 **imedcherfaoui/imedcherfaoui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
