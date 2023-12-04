@@ -9,7 +9,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/cherfaoui-imededdine/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="" height="30" width="40" /></a>
-<a href="https://www.instagram.com/imedoari.jpg/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.instagram.com/imedoari.jpg/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" alt="" height="30" width="40" /></a>
 </p>
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge)
