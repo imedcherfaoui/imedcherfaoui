@@ -1,6 +1,6 @@
 ![Site preview](https://i.ibb.co/RpmbtWJ/git-background.png)
 
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: between;">
   <a style="margin-right: 50px;">
     <img height="200" src="https://github-readme-stats.vercel.app/api?username=imedcherfaoui&show_icons=true&theme=radical" />
   </a>
