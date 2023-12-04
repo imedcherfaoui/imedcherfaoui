@@ -1,11 +1,14 @@
 ![Site preview](https://i.ibb.co/RpmbtWJ/git-background.png)
 
-<a>
-  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api?username=imedcherfaoui&show_icons=true&theme=radical" />
-</a>
-<a>
-  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imedcherfaoui&layout=compact" />
-</a>
+<div style="display: flex; justify-content: center;">
+  <a style="margin-right: 10px;">
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=imedcherfaoui&show_icons=true&theme=radical" />
+  </a>
+  <a>
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imedcherfaoui&layout=compact" />
+  </a>
+</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/cherfaoui-imededdine/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="" height="30" width="40" /></a>
