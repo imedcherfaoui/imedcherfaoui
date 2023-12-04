@@ -1,9 +1,9 @@
 ![Site preview](https://i.ibb.co/RpmbtWJ/git-background.png)
 
-<a href="https://github.com/imedcherfaoui">
+<a>
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=imedcherfaoui&show_icons=true&theme=radical" />
 </a>
-<a href="https://github.com/imedcherfaoui">
+<a>
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imedcherfaoui&layout=compact" />
 </a>
 <h3 align="left">Connect with me:</h3>
