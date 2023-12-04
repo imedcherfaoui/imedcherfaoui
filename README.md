@@ -1,7 +1,7 @@
 ![Site preview](https://i.ibb.co/RpmbtWJ/git-background.png)
 
-<div style="display: flex; justify-content: between;">
-  <a style="margin-right: 50px;">
+<div style="display: flex; justify-content: space-between; max-width: 800px; margin: 0 auto;">
+  <a>
     <img height="200" src="https://github-readme-stats.vercel.app/api?username=imedcherfaoui&show_icons=true&theme=radical" />
   </a>
   <a>
