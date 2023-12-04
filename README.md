@@ -1,10 +1,10 @@
 ![Site preview](https://i.ibb.co/RpmbtWJ/git-background.png)
 
 <a>
-  <img height=150 width=50% align="center" src="https://github-readme-stats.vercel.app/api?username=imedcherfaoui&show_icons=true&theme=radical" />
+  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api?username=imedcherfaoui&show_icons=true&theme=radical" />
 </a>
 <a>
-  <img height=150 width=50% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imedcherfaoui&layout=compact" />
+  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imedcherfaoui&layout=compact" />
 </a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
