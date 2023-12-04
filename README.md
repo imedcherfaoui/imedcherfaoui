@@ -16,9 +16,11 @@
   <span width="50">.</span>
 <a href="https://www.instagram.com/imedoari.jpg/" target="blank" align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" alt="" height="30" width="40" /></a>
 </p>
-<div align="center">
-  ![](https://komarev.com/ghpvc/?username=imedcherfaoui&style=for-the-badge&base=2830)
-</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=imedcherfaoui&style=for-the-badge&base=2830" alt="Profile Views" />
+</p>
+
 <!--
 **imedcherfaoui/imedcherfaoui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
