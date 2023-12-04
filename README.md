@@ -17,7 +17,7 @@
 <a href="https://www.instagram.com/imedoari.jpg/" target="blank" align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" alt="" height="30" width="40" /></a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=imedcherfaoui&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=imedcherfaoui&style=for-the-badge&base=2830)
 <!--
 **imedcherfaoui/imedcherfaoui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
