@@ -1,4 +1,4 @@
-![Site preview](https://i.ibb.co/RpmbtWJ/git-background.png)
+![Site preview](https://iili.io/JTyJ444.png)
 
 <div style="display: flex; width: 100%;" align="center">
   <a>
