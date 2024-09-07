@@ -1,8 +1,7 @@
 ![Site preview](https://iili.io/JTyJ444.png)
 
-<div align="center">
-  # [Portfolio : click here](https://imedcherfaoui.com/)
-</div>
+<h3 align="center">
+  <a href="https://imedcherfaoui.com">Portfolio : click here</a></h3>
 
 <div style="display: flex; width: 100%;" align="center">
   <a>
