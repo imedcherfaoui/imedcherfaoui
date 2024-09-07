@@ -1,6 +1,8 @@
 ![Site preview](https://iili.io/JTyJ444.png)
 
-# [Portfolio : click here](https://imedcherfaoui.com/)
+<div style="display: flex; width: 100%;" align="center">
+  # [Portfolio : click here](https://imedcherfaoui.com/)
+</div>
 
 <div style="display: flex; width: 100%;" align="center">
   <a>
