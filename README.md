@@ -1,8 +1,8 @@
 ![Site preview](https://iili.io/JTyJ444.png)
 
 <h3 align="center">
-  <a href="https://imedcherfaoui.com">Portfolio : </a><br />
-  <img src="https://skillicons.dev/icons?i=vscode"  href="https://imedcherfaoui.com" />
+  <a href="https://imedcherfaoui.com">Portfolio : <br />
+  <img src="https://skillicons.dev/icons?i=vscode"  href="https://imedcherfaoui.com" /></a>
 </h3>
 <hr />
 <p align="center">
