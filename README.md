@@ -2,7 +2,7 @@
 
 <h3 align="center">
   <a href="https://imedcherfaoui.com">Portfolio : </a><br />
-  <img src="https://imedcherfaoui.com" />
+  <img src="https://skillicons.dev/icons?i=vscode"  href="https://imedcherfaoui.com" />
 </h3>
 <hr />
 <p align="center">
