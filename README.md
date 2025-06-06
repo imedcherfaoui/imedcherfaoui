@@ -35,4 +35,5 @@
 </p>
 
 
-$\textcolor{magenta}{\textsf{\textbf{\texttt{🔭 I’m currently working on a cool project...✨}}}}$
+### 🔭 I’m currently working on [![project badge](https://img.shields.io/badge/Cool_Project-✨_Under_Construction_-brightgreen?style=for-the-badge&logo=github)](https://github.com/your-repo)
+
