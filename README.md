@@ -5,9 +5,6 @@
   <a href="https://www.linkedin.com/in/cherfaoui-imed/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://www.instagram.com/imedoari.jpg/">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
 </p>
 
 
